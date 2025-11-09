@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/Projetangular/accueil": {},
+    "/Projetangular/contact": {},
+    "/Projetangular/portfolio": {},
+    "/Projetangular/resume": {}
+  }
+}
